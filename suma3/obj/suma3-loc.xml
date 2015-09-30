@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file>C:\Users\Icc Opson\Documents\ADA\suma3\suma3.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Icc Opson\Documents\ADA\Conversor binario\decimalbinario.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Icc Opson\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Icc Opson\Documents\ADA\Conversor binario\decimalbinario.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Icc Opson\Documents\ADA\Conversor binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\Users\Icc Opson\Documents\ADA\Conversor binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5" >
+      <vfs_project />
+      <vfs_file>C:\Users\Icc Opson\Documents\ADA\Conversor binario\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Icc Opson\Documents\ADA\suma3\suma3.gpr</vfs_project>
+      <vfs_file>C:\Users\Icc Opson\Documents\ADA\suma3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Icc Opson\Documents\ADA\suma2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 89" >
+      <vfs_project>C:\Users\Icc Opson\Documents\ADA\suma3\suma3.gpr</vfs_project>
+      <vfs_file>C:\Users\Icc Opson\Documents\ADA\suma3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 3" line=" 92" >
+      <vfs_project>C:\Users\Icc Opson\Documents\ADA\suma3\suma3.gpr</vfs_project>
+      <vfs_file>C:\Users\Icc Opson\Documents\ADA\suma3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 90" >
+      <vfs_project>C:\Users\Icc Opson\Documents\ADA\suma3\suma3.gpr</vfs_project>
+      <vfs_file>C:\Users\Icc Opson\Documents\ADA\suma3\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 3" line=" 92" >
+      <vfs_project>C:\Users\Icc Opson\Documents\ADA\suma3\suma3.gpr</vfs_project>
+      <vfs_file>C:\Users\Icc Opson\Documents\ADA\suma3\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
